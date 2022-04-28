@@ -1,4 +1,5 @@
 # LGMVIP-DataScience
+
 #Task1: Develop A neaural network that can read handwriting
 This contains Machine learning project of Recognising Handwritten digits.I have used mnist dataset,tensorflow and cnn for this project.This project will help us to recognise Handwritten digits
 
